@@ -66,6 +66,10 @@ The project simulates quality-check workflows commonly used in food processing a
 5. Model Evaluation
 6. Prediction & Visualization
 
+### Workflow Diagram
+
+![Workflow](outputs/workflow.jpg)
+
 ---
 
 ## Repository Structure
