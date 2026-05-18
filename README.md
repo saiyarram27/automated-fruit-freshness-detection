@@ -57,6 +57,17 @@ The project simulates quality-check workflows commonly used in food processing a
 
 ---
 
+## Output Visualizations
+
+## Training and Accuracy results
+
+![Prediction Output](outputs/training_and_accuracy_results.jpg)
+
+### Prediction Output
+
+![Prediction Output](outputs/predictions.jpg)
+
+
 ## Project Workflow
 
 1. Dataset Collection
@@ -65,6 +76,8 @@ The project simulates quality-check workflows commonly used in food processing a
 4. CNN Model Training
 5. Model Evaluation
 6. Prediction & Visualization
+
+---
 
 ### Workflow Diagram
 
