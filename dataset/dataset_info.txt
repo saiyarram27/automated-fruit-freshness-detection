@@ -1,0 +1,4 @@
+Dataset contains 2,300+ fruit images categorized into fresh and spoiled apples, bananas, and oranges.
+
+Dataset Source:
+https://www.kaggle.com/datasets/sriramr/fruits-fresh-and-rotten-for-classification
