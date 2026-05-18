@@ -1,0 +1,6 @@
+Trained CNN model file was excluded due to GitHub upload size limitations.
+
+Model Format: .keras
+Approximate Size: 85 MB
+model link: https://drive.google.com/file/d/1n9Pt7Xscdjrvejw1YHB8yfyRAeDH28lZ/view?usp=sharing
+The model was trained using TensorFlow and Keras on a dataset containing 2,300+ fruit images.
